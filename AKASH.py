@@ -1,1 +1,1 @@
-import EXIT
+import exit
